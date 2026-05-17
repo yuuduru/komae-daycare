@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-17T19:21:45",
+  "scraped_at": "2026-05-17T20:42:48",
   "source": "東京都社会福祉協議会 福ナビ（東京都福祉サービス第三者評価）",
   "source_list_url": "https://www.fukunavi.or.jp/fukunavi/hyoka/search.html",
   "facilities": {
@@ -11,6 +11,21 @@
       "evaluation_id": "2026002256",
       "office_code": "1321900048",
       "source_url": "https://www.fukunavi.or.jp/fukunavi/controller?actionID=hyk&cmd=hyklstdtldigest&BEF_PRC=hyk&HYK_ID=2026002256&SVCSBRCD=031&JGY_CD=1321900048&MODE=multi&SVCDBR_CD=22&S_MODE=area&MLT_AREA=13219&STEP_SVCSBRCD=031",
+      "highlights_good": [
+        "自然に触れ戸外活動を楽しみながら様々な刺激を受け、好奇心が育まれている",
+        "子どもたちは「ふくしえほん」を活用して多様な視点を経験的に学んでいる",
+        "職員が互いに協力し、より良い保育の実践を目指し園全体で取り組んでいる"
+      ],
+      "highlights_improvement": [
+        "子どもにとっての最善を考え、発達段階にふさわしい行事に取り組んでいく",
+        "子どもの生活リズムや状況に配慮した午睡や休息の取り方の検討と実践をしていく",
+        "保育業務支援システムの活用に取り組み、園の保育の理解と業務の効率化を図っていく"
+      ],
+      "satisfaction": {
+        "satisfaction_avg_pct": 84.5,
+        "satisfaction_question_count": 17,
+        "satisfaction_stars": 4
+      },
       "sections": [
         {
           "id": "philosophy",
@@ -62,6 +77,21 @@
       "evaluation_id": "2023002586",
       "office_code": "1321900044",
       "source_url": "https://www.fukunavi.or.jp/fukunavi/controller?actionID=hyk&cmd=hyklstdtldigest&BEF_PRC=hyk&HYK_ID=2023002586&SVCSBRCD=031&JGY_CD=1321900044&MODE=multi&SVCDBR_CD=22&S_MODE=area&MLT_AREA=13219&STEP_SVCSBRCD=031",
+      "highlights_good": [
+        "さまざまな社会資源を利用し子どもたちが広い知識や教養を身に付けるようにしています",
+        "地域の子育て家庭の支援や、地域の貴重な社会資源となるよう地域の交流活動に取り組んでいます",
+        "好きな遊びをあそび込めるコーナーや絵本コーナーなど、一日の生活の中で静と動を組合わせて過ごしやすい環境設定の工夫がなされています"
+      ],
+      "highlights_improvement": [
+        "理念や方針、目標等の目指す方向性の実現に向けた園運営としての中長期計画を明確化していくことが期待されます",
+        "保護者と写真や文章を共有し、活動の雰囲気や子どもの様子をより詳細に伝える保育活動記録の見える化をのぞみます",
+        "行事やさまざまな活動がコロナ禍で制限されていますが、子どもたちに多様な経験ができるように努めています"
+      ],
+      "satisfaction": {
+        "satisfaction_avg_pct": 80.2,
+        "satisfaction_question_count": 17,
+        "satisfaction_stars": 4
+      },
       "sections": [
         {
           "id": "philosophy",
@@ -113,6 +143,21 @@
       "evaluation_id": "2025001949",
       "office_code": "1321900043",
       "source_url": "https://www.fukunavi.or.jp/fukunavi/controller?actionID=hyk&cmd=hyklstdtldigest&BEF_PRC=hyk&HYK_ID=2025001949&SVCSBRCD=031&JGY_CD=1321900043&MODE=multi&SVCDBR_CD=22&S_MODE=area&MLT_AREA=13219&STEP_SVCSBRCD=031",
+      "highlights_good": [
+        "科学的根拠に基づいた丁寧な保育実践により、子どもの笑顔を育む充実した保育環境が整えられています",
+        "子どもの安定につながる保護者の心情に寄り添い、共育ての実現に向けて保育への思いや職員の学びを積極的に発信しています",
+        "０歳から３歳児を対象とする比較的小規模な施設で園全体が家庭的な雰囲気に包まれています"
+      ],
+      "highlights_improvement": [
+        "子どもや保護者の想いに寄り添うあたたかな保育環境の維持・継続・更なる発展にも期待します",
+        "ICTシステムの継続した推進強化による保護者との情報交流の増進が期待されます",
+        "積極的な市の保育施策との一層の連携強化にも期待します"
+      ],
+      "satisfaction": {
+        "satisfaction_avg_pct": 93.4,
+        "satisfaction_question_count": 17,
+        "satisfaction_stars": 5
+      },
       "sections": [
         {
           "id": "philosophy",
@@ -164,6 +209,21 @@
       "evaluation_id": "2026001330",
       "office_code": "1321900188",
       "source_url": "https://www.fukunavi.or.jp/fukunavi/controller?actionID=hyk&cmd=hyklstdtldigest&BEF_PRC=hyk&HYK_ID=2026001330&SVCSBRCD=031&JGY_CD=1321900188&MODE=multi&SVCDBR_CD=22&S_MODE=area&MLT_AREA=13219&STEP_SVCSBRCD=031",
+      "highlights_good": [
+        "子どもの成長を見通し、楽しく安心して食事ができるような雰囲気を作り、食育活動を大切にしている",
+        "子どもとのより良い関りのために不適切保育防止のためのセルフチェックシートを活用し、園全体の保育力の向上に取り組んでいる",
+        "業務の効率化のためにＩＣＴ化を推進し、園全体で子どもの状況を把握するとともに子どもとの時間を作り出すことをしている"
+      ],
+      "highlights_improvement": [
+        "子どもの主体的な遊びと安心した生活が展開できるように空間作りなどの環境を整えることに期待する",
+        "より良い保育実践のために、計画の振り返りをおこない職員の保育力向上に取り組むことを期待する",
+        "組織力向上のため、組織としてのチームワークの促進に取り組むことが望まれる"
+      ],
+      "satisfaction": {
+        "satisfaction_avg_pct": 88.8,
+        "satisfaction_question_count": 17,
+        "satisfaction_stars": 4
+      },
       "sections": [
         {
           "id": "philosophy",
@@ -215,6 +275,21 @@
       "evaluation_id": "2025002892",
       "office_code": "1321900189",
       "source_url": "https://www.fukunavi.or.jp/fukunavi/controller?actionID=hyk&cmd=hyklstdtldigest&BEF_PRC=hyk&HYK_ID=2025002892&SVCSBRCD=031&JGY_CD=1321900189&MODE=multi&SVCDBR_CD=22&S_MODE=area&MLT_AREA=13219&STEP_SVCSBRCD=031",
+      "highlights_good": [
+        "乳児・幼児ともに、異年齢保育での生活を通して、子ども同士で互いの存在を認め合う関係性が育まれている",
+        "年齢別に一律に区別することなく、一人ひとりの発達に応じて子どもが自己決定できる機会の確保と環境設定の工夫をしている",
+        "「誉める保育」の実践を通じて子どもたちの「愛されている実感」や安心感を育み、一人ひとりの主体性を養っている"
+      ],
+      "highlights_improvement": [
+        "園としてより地域に開かれ、親しまれる園となるための、機能の還元や地域への働きかけの工夫の検討が期待される",
+        "各職員の成長を支援する仕組みの機能をより高め、園としての課題解決にも活かしてゆく工夫も一考されたい",
+        "目下進められている教具に関する学びをさらに進展させ、発達指標とのつながりを明らかにしてゆくことに、期待が寄せられる"
+      ],
+      "satisfaction": {
+        "satisfaction_avg_pct": 83.4,
+        "satisfaction_question_count": 17,
+        "satisfaction_stars": 4
+      },
       "sections": [
         {
           "id": "philosophy",
@@ -266,6 +341,21 @@
       "evaluation_id": "2025002401",
       "office_code": "1321900198",
       "source_url": "https://www.fukunavi.or.jp/fukunavi/controller?actionID=hyk&cmd=hyklstdtldigest&BEF_PRC=hyk&HYK_ID=2025002401&SVCSBRCD=031&JGY_CD=1321900198&MODE=multi&SVCDBR_CD=22&S_MODE=area&MLT_AREA=13219&STEP_SVCSBRCD=031",
+      "highlights_good": [
+        "大きな家族のような安心の中、子どもの命を守り一人ひとりに寄り添う保育を行っている",
+        "地域と連携して様々な取り組みを行い、子どもが地域と関わりながら経験を広げている",
+        "全職員で子どもの育ちを共有し、豊かな保育を展開するため工夫をして取り組んでいる"
+      ],
+      "highlights_improvement": [
+        "引き続き様々な立場の保護者支援に力を入れ、職員の学びと理解を深めていく",
+        "日頃から保護者との信頼関係を基に、子どもの育ちを共有し保育を伝えていく",
+        "家庭や地域とのつながりを増やし、子どもが多様な体験や交流ができるようにしていく"
+      ],
+      "satisfaction": {
+        "satisfaction_avg_pct": 92.5,
+        "satisfaction_question_count": 17,
+        "satisfaction_stars": 5
+      },
       "sections": [
         {
           "id": "philosophy",
@@ -317,6 +407,21 @@
       "evaluation_id": "2026003631",
       "office_code": "1321900247",
       "source_url": "https://www.fukunavi.or.jp/fukunavi/controller?actionID=hyk&cmd=hyklstdtldigest&BEF_PRC=hyk&HYK_ID=2026003631&SVCSBRCD=031&JGY_CD=1321900247&MODE=multi&SVCDBR_CD=22&S_MODE=area&MLT_AREA=13219&STEP_SVCSBRCD=031",
+      "highlights_good": [
+        "子どもたちは図鑑や電子黒板も活用しながら「自然」に関する発見を共有し、主体的に意見を交わす姿が見られています",
+        "リサイクル工場の見学や近隣園との交流を通じ、地域とのつながりの強化を図り、子どもたちが多様な交流や体験ができるようにしています",
+        "離乳食教室・園庭開放・一時保育に加え、実習生とボランティアの受け入れを通じて、地域との接点を継続的かつ多面的に広げています"
+      ],
+      "highlights_improvement": [
+        "「すくわくプログラム」の3年計画を一般職員も参画して立てるなど、事業計画をより身近で自分たちのものとしていくことが期待されます",
+        "保護者の理解と協力を得ながら日常の出入口管理を徹底し、不審者の侵入防止策を安心に繋げることが求められます",
+        "これまで積み重ねてきた園独自の取り組みを整理し、園内で引き継がれるマニュアルをまとめる価値が高まっています"
+      ],
+      "satisfaction": {
+        "satisfaction_avg_pct": 78.6,
+        "satisfaction_question_count": 17,
+        "satisfaction_stars": 3
+      },
       "sections": [
         {
           "id": "philosophy",
@@ -368,6 +473,21 @@
       "evaluation_id": "2025002406",
       "office_code": "1321900262",
       "source_url": "https://www.fukunavi.or.jp/fukunavi/controller?actionID=hyk&cmd=hyklstdtldigest&BEF_PRC=hyk&HYK_ID=2025002406&SVCSBRCD=031&JGY_CD=1321900262&MODE=multi&SVCDBR_CD=22&S_MODE=area&MLT_AREA=13219&STEP_SVCSBRCD=031",
+      "highlights_good": [
+        "すべての子どもに、必要な経験を保障し、共に育つ機会を提供している",
+        "子どもの命を守るという使命を果たすため、高い水準の取り組みを継続している",
+        "秩序だった環境を作り上げ、成長し行く子どもの思いに応えている"
+      ],
+      "highlights_improvement": [
+        "保護者とのコミュニケーションの一層の充実を目指し、個々のスキルの向上を図っていく",
+        "今後もさらに、職員間の共通認識を促進していく",
+        "今後のICT（情報通信技術）の活用を見据え、関連機器の操作に慣れていく"
+      ],
+      "satisfaction": {
+        "satisfaction_avg_pct": 99.6,
+        "satisfaction_question_count": 17,
+        "satisfaction_stars": 5
+      },
       "sections": [
         {
           "id": "philosophy",
