@@ -1,0 +1,15 @@
+{
+  "_comment": "Google Sheets「新生活メモ / 保活」シートから手動取り込み。自動抽出より優先される。",
+  "_source_sheet": "https://docs.google.com/spreadsheets/d/17IDIY3m13g8XBMuXNIVCOcJxKA7EXU5W27e8Vg0tu9U/edit?gid=1096720662",
+  "facilities": {
+    "02": {
+      "open_hours_0y": "7:15-18:15",
+      "extended_hours": "18:15-19:15",
+      "extra_cost": "なし",
+      "parking": "なし",
+      "items": "着替え、水筒、手ふきタオル（乳児は紙おむつ、食事用エプロン、口ふきタオル）",
+      "annual_events": "毎月行事あり",
+      "memo": "登園は8:50まで（開園時間は0歳児7:30-18:30、延長18:30-20:30の枠も存在）"
+    }
+  }
+}

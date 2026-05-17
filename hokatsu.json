@@ -1,0 +1,190 @@
+{
+  "generated_at": "2026-05-17T23:35:23",
+  "schema_version": 1,
+  "columns": [
+    "保育園名",
+    "家からの距離(自転車)",
+    "開園時間(0歳)",
+    "延長保育時間",
+    "追加費用",
+    "駐車場",
+    "保育方針(キーワード)",
+    "持ち物",
+    "年間イベント数",
+    "先生一人あたりの園児数",
+    "有休で預けられるか",
+    "熱中症対策",
+    "避難訓練",
+    "連絡帳の形式",
+    "保育園HP",
+    "備考",
+    "保育士同士の雰囲気",
+    "制作物が多いか"
+  ],
+  "facilities": {
+    "02": {
+      "name": "駒井保育園",
+      "extended_hours": "18:15-19:15",
+      "evacuation_drill": "どに明示している。また、火災・地震・水害を想定した避難訓練を毎月実施している。防犯や交通安全、自動体外式除細動器（AED）を用いた救急法などについても、警察署や消防署に協力を得て学んでいる。保護者の協力のもとで行う災害時を想定した園児の引き取り訓練、災害時における安全な食事の提供を確保する「アレル",
+      "contact_book_format": "保育業務支援システムの活用が考えられる。現在は、連絡帳のやり取りや一日の様子等を配信している。システムを有効活用していくためは、入力内容のルール等を作成して全体で共有していくことが必要となる。入力に要する時間の短縮",
+      "homepage_url": "https://www.hoicil.com/one_stop/f/3NZXyn3Qt",
+      "parking": "なし",
+      "open_hours_0y": "7:15-18:15",
+      "extra_cost": "なし",
+      "items": "着替え、水筒、手ふきタオル（乳児は紙おむつ、食事用エプロン、口ふきタオル）",
+      "annual_events": "毎月行事あり",
+      "memo": "登園は8:50まで（開園時間は0歳児7:30-18:30、延長18:30-20:30の枠も存在）",
+      "distance_km": 1.1,
+      "distance_minutes": 5,
+      "_source": {
+        "extended_hours": "sheet",
+        "evacuation_drill": "fukunavi-auto",
+        "contact_book_format": "fukunavi-auto",
+        "homepage_url": "facility",
+        "parking": "sheet",
+        "open_hours_0y": "sheet",
+        "extra_cost": "sheet",
+        "items": "sheet",
+        "annual_events": "sheet",
+        "memo": "sheet",
+        "distance_km": "calc",
+        "distance_minutes": "calc"
+      }
+    },
+    "03": {
+      "name": "駄倉保育園",
+      "extended_hours": "在地（住所、地図）・電話番号・定員・保育開始月齢・延長保育定員」等の基本的な情報を掲載しています。また、入園申し込み、関連書類はホームページでも、ダウンロードができるようになっています。原則郵送で受付しています。 園の",
+      "evacuation_drill": "急時の持ち出しチェック表等を整備しています。毎月の避難訓練では、様々な場面の想定、消防署の方が関わる専門的な訓練の機会等もあり、危機管理意識の向上を図っています。夏の熱中症予防、AED講習、嘔吐処理対応、害虫への注意喚起、ハザードマップに基づく水害訓練など、季節や地域特性におけるリスクマネジメント",
+      "heatstroke_measures": "緊急時の持ち出しチェック表等を整備しています。夏の熱中症予防、AED講習、嘔吐処理対応、害虫への注意喚起、ハザードマップに基づく水害訓練など、季節や地域特性におけるリスクマネジメントにも取り組んでいます。また、事故・ケガに対して、事故報告書の作成やヒヤリハットに取り組み、気づきや情報の収集、毎月",
+      "contact_book_format": "が毎日の活動を楽しみ、健やかに過ごした１日の様子は連絡帳、クラスのボードに記載し、活動中の写真を掲示しています。口頭で子どもの様子を伝え、子育てを応援する声かけをする等、情報共有に努めています。保護者からはアンケート",
+      "homepage_url": "https://www.hoicil.com/f/eP91gRRxv",
+      "parking": "駐輪場はあります。駐車場はありません。園内で感染症などが流行した場合は、こちらからご連絡させていただくこ",
+      "distance_km": 1.7,
+      "distance_minutes": 7,
+      "_source": {
+        "extended_hours": "fukunavi-auto",
+        "evacuation_drill": "fukunavi-auto",
+        "heatstroke_measures": "fukunavi-auto",
+        "contact_book_format": "fukunavi-auto",
+        "homepage_url": "facility",
+        "parking": "hoicil",
+        "distance_km": "calc",
+        "distance_minutes": "calc"
+      }
+    },
+    "07": {
+      "name": "狛江子どもの家",
+      "extended_hours": "トを取り、保護者の意向を確認して令和７年４月より延長保育を実施することとなりました。 諸計画の着実な実行に向け、職員と共に全園で事業を推進させています 運営計画の実施に際しては、上記の諸計画に基づき、数値目標等も設定",
+      "contact_book_format": "談したことがありません。直接かかわることはできず、コドモンでしかやり取りができていません」「個人面談の回数が少ないと思います。送迎の時はばたばたしているので、回数が増えるとありがたいです」などの課題意見も見られました。",
+      "atmosphere": "「子ども達を第一に、大切に丁寧に向き合って、柔軟に対応してくださっていると感じます。先生方は皆さんとても優秀です」",
+      "handmade_items": "使われていて、家では出ないような工夫されたおいしい手作りのメニューもあり助かっています」「好き嫌いが少ないのは園のおかげだと思います」などの声が上がっていました。 一方、「以前の献立表の方が見やすかったです」という課",
+      "homepage_url": "https://www.hoicil.com/one_stop/f/Hh5PXQwp1",
+      "distance_km": 2.1,
+      "distance_minutes": 9,
+      "_source": {
+        "extended_hours": "fukunavi-auto",
+        "contact_book_format": "fukunavi-auto",
+        "atmosphere": "fukunavi-auto",
+        "handmade_items": "fukunavi-auto",
+        "homepage_url": "facility",
+        "distance_km": "calc",
+        "distance_minutes": "calc"
+      }
+    },
+    "08": {
+      "name": "虹のひかり保育園",
+      "extended_hours": "どもが楽しく過ごせるよう配慮をしている 【講評】 延長保育は子どもが満たされた気持ちで過ごせるように配慮している 長時間保育が子どもの心身の負担にならないように、ゆとりを持った温かい保育をおこなうように努めている。延長",
+      "contact_book_format": "すことをしている 詳細を見る ＩＣＴ化の推進により電子連絡帳を導入し、園全体で各家庭の状況をより細やかに速やかに把握できるようになった。各クラスからの保護者への連絡方法として、パソコン・タブレット・携帯電話を用意し、業務",
+      "handmade_items": "い乳児の部屋には、自由に動き探索活動ができるよう、壁面を工夫したり、幅広く設計された廊下にも、手作りで移動可能な箱に大型遊具を用意している。2階のホールには、身体活動を促す遊具を配置して子どもたちは十分に身体を動か",
+      "homepage_url": "https://www.hoicil.com/one_stop/f/0EVan4LF",
+      "distance_km": 2.1,
+      "distance_minutes": 9,
+      "_source": {
+        "extended_hours": "fukunavi-auto",
+        "contact_book_format": "fukunavi-auto",
+        "handmade_items": "fukunavi-auto",
+        "homepage_url": "facility",
+        "distance_km": "calc",
+        "distance_minutes": "calc"
+      }
+    },
+    "09": {
+      "name": "ぎんきょう保育園",
+      "extended_hours": "既往症、保護者の就労状況や家族構成、緊急連絡先、延長保育の申請書など、保育開始に必要となる書類を配付し、保育開始日までの記入をお願いしている。その他写真の取り扱いやホームページの閲覧手順に関する書面も配付している。要",
+      "evacuation_drill": "が2.3％となっている。 自由意見は10件で、「避難訓練も定期的にしているようで、お口を隠してやるんだよと教えてくれる」「大きなケガの話は聞かないし、多少のケガでも密に報告してくれる」「外に出かけないのが、それが返って心配がなくてありがたい」「おおよそ問題ないと思う」のほか、保育中の安全管理や設",
+      "contact_book_format": "収集にも取り組んでおり、保護者の意向を日々の会話やアプリ連絡帳を通じたコミュニケーションなどから、職員の意向は前述の各会議や園長との面談、日頃の業務内外の会話などから把握している。保護者や職員の声は課題の把握の参考として、",
+      "atmosphere": "「子どもたちの個性を大事にし、よく誉めてくれ、比較的自由な園生活で、得意なことを伸ばせる環境だと思う」",
+      "handmade_items": "いる。研修では教具に対する考え方の再確認や、各園の手作り教具に関する資料の共有がなされており、資料には教具の対象年齢・想定・子どもの姿や変化などの情報が記載されている。この教具に関する学びをさらに進展させ、教具の情報",
+      "homepage_url": "https://www.hoicil.com/one_stop/f/sgjclp",
+      "distance_km": 2.0,
+      "distance_minutes": 9,
+      "_source": {
+        "extended_hours": "fukunavi-auto",
+        "evacuation_drill": "fukunavi-auto",
+        "contact_book_format": "fukunavi-auto",
+        "atmosphere": "fukunavi-auto",
+        "handmade_items": "fukunavi-auto",
+        "homepage_url": "facility",
+        "distance_km": "calc",
+        "distance_minutes": "calc"
+      }
+    },
+    "10": {
+      "name": "東野川保育園みんなの家",
+      "open_hours_0y": "朝の７時から始まり夜は延長時間も含めますと21時まで、大切なお子様をお預かりしています。様々な環境の中で大切なお子様の命と健康を守る。この重責を担う職員は大きなストレスや負担を抱える事が少なくありません。私た",
+      "extended_hours": "材像や役割 私たちの保育所は朝の７時から始まり夜は延長時間も含めますと21時まで、大切なお子様をお預かりしています。様々な環境の中で大切なお子様の命と健康を守る。この重責を担う職員は大きなストレスや負担を抱える事が少な",
+      "contact_book_format": "ョンツールを導入して情報を発信に活用している。保育ICTシステムも導入し、それを活用した保護者支援について検討している。それぞれのツールの良さを活かし紙面での発行も併用し、発信を活発に行っていく方針である。配付している各おた",
+      "handmade_items": "楽しみ、季節や行事に関わる製作にも取り組み、作品を壁面に飾り保護者にも見てもらっている。また、子どもが言葉を習得する大切な時期であることを意識して、子どもへの語りかけはより丁寧に行い、読み聞かせや自分で選んだ本を読",
+      "homepage_url": "https://www.hoicil.com/f/FjyGo2hiB",
+      "distance_km": 2.4,
+      "distance_minutes": 10,
+      "_source": {
+        "open_hours_0y": "fukunavi-auto",
+        "extended_hours": "fukunavi-auto",
+        "contact_book_format": "fukunavi-auto",
+        "handmade_items": "fukunavi-auto",
+        "homepage_url": "facility",
+        "distance_km": "calc",
+        "distance_minutes": "calc"
+      }
+    },
+    "16": {
+      "name": "狛江ちとせ保育園",
+      "extended_hours": "めの職員配置を行い、個別支援を充実させています。 延長保育時は、専用の玩具を用意し、安心して過ごせるようにしています 18時から20時の延長保育時間は、1歳児室を使用して合同保育を行っています。職員体制は、正規職員1名",
+      "evacuation_drill": "突然死症候群の予防を含む）を行っている 【講評】 避難訓練や防犯訓練を通じ、子どもが健康や安全に対して関心が持てるようにしています 子どもが自身の健康や安全に関心が持てるよう、毎月避難訓練を行っています。訓練は火災・地震・水害などのさまざまな場面を想定し、月ごとに内容を変えています。また、不審者訓",
+      "contact_book_format": "は、狛江市公私立園長会で検討し、狛江市からの書面をICTアプリで配信しています。また、地域住民に対しては、「イベント開催時の騒音について」などを案内しています。こうした事項はリーダー会議で検討し、園外掲示板を通して知らせて",
+      "handmade_items": "表現力を育む機会として、絵手紙活動やマーブリング、壁面制作を行っています。そのようなプログラムを実施する際は、個々の興味や関心に合わせ、自由に表現できる環境や時間を保障するように配慮しています。 散歩や園庭遊びなど",
+      "homepage_url": "https://www.hoicil.com/one_stop/f/selibb",
+      "distance_km": 2.1,
+      "distance_minutes": 9,
+      "_source": {
+        "extended_hours": "fukunavi-auto",
+        "evacuation_drill": "fukunavi-auto",
+        "contact_book_format": "fukunavi-auto",
+        "handmade_items": "fukunavi-auto",
+        "homepage_url": "facility",
+        "distance_km": "calc",
+        "distance_minutes": "calc"
+      }
+    },
+    "17": {
+      "name": "駒井町みんなの家",
+      "extended_hours": "めている人材像や役割 保育所は朝７時に始まり、夜は延長時間も含め21時まで、大切なお子様をお預かりしています。このような職場環境の中では、常に怪我や事故が起きないよう注意し続けなければならず、職員は常に大きなストレスや",
+      "evacuation_drill": "情報共有により、事故発生防止の徹底と、防災・防犯・避難訓練等のマニュアルに従い、「避難訓練の毎月の実施及び記録」、「最適な避難経路の確保」、「日常的な点検と整理整頓」を実施する。災害時には、「保護者・地域・行政機関等との連携」を重んじ、「緊急連絡先網の整備」や日頃から情報交換を行い相互に協力し合え",
+      "contact_book_format": "様子を伝えるため動画の配信も行っている。次年度は、連絡帳の電子化も予定しており、今後はICTの活用が保育関連業務の不可欠の要素となっていくことが見込まれる。各職員とも、徐々に慣れていき、苦手意識を減らし、スムーズな運",
+      "handmade_items": "いる。「子どもが楽しめるものを」という思いを込めて手作りの玩具も取り入れている。その上で、玩具や教材も、必要な場合に出し、終わったら片づけるということを習慣づけている。また、静的、動的な活動のスペースを十分に保障して",
+      "homepage_url": "https://www.hoicil.com/f/Z3uUb7UvD",
+      "distance_km": 1.1,
+      "distance_minutes": 4,
+      "_source": {
+        "extended_hours": "fukunavi-auto",
+        "evacuation_drill": "fukunavi-auto",
+        "contact_book_format": "fukunavi-auto",
+        "handmade_items": "fukunavi-auto",
+        "homepage_url": "facility",
+        "distance_km": "calc",
+        "distance_minutes": "calc"
+      }
+    }
+  }
+}
